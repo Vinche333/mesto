@@ -5,5 +5,10 @@
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 17px;
+}
+
+@media screen and (max-width:767px){
+    .elements{
     margin-left: 20px;
+    }
 }
