@@ -1,8 +1,6 @@
 .element__group{
-    background-color: #fff;
+    padding: 25px 21px 26px;
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
-    width: 100%;
-    border-radius: 20%;
+    align-items: center;
 }

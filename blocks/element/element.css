@@ -1,6 +1,10 @@
 .element{
-    border-radius: 10%;
+    position: relative;
+    background-color: #fff;
+    border-radius: 10px;
+    overflow: hidden;
     display: flex;
     flex-direction: column;
+    transition: transform .2s;
     max-width: 282px;
 }

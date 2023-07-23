@@ -1,0 +1,16 @@
+.element__mask{
+    background-image: url(../../../images/icon__like.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 22px;
+    height: 19px;
+    cursor: pointer;
+    border: 0;
+    background-color: #fff;
+    transition: opacity 1s linear;
+}
+
+.card__mask:hover {
+    opacity: .5;
+  }
