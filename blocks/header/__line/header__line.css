@@ -1,5 +1,8 @@
-.headeer__line{
+.header__line{
+    margin: 0;
     max-width: 880px;
-    color: #545454;
-    border: solid 1px #545454;
+    background-color: #545454;
+    min-height: 1px;
+    opacity: 0.699999988079071;
+    margin-top: 41px;
 }
